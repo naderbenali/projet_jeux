@@ -1,0 +1,6 @@
+echo "# projet jeux-" >> README.md
+git init 
+git add EEADME.md
+git commit -m "first commit"
+git remote add origin https://github.com/naderbenali/projet_jeux.git
+git push -u origin master
